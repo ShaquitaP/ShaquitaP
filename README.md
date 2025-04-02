@@ -8,8 +8,8 @@
 - 🔵 I’m a veteran of the United States Air Force 
 - 🟢 I’m currently working on my bachelor's degree in Software Development at the University of West Florida
 - 🟣 I am new to software development and am open to any and all opportunities to learn more
-- 🟡 I currently know two programming languages: C++ and Java
-- 🟠 How to reach me: shaquitapuckett@gmail.com
+- 🟡 I currently know two programming languages: C++ and Java and Python
+- 🟠 How to reach me: spuckett.sp.27@gmail.com
 - 🔴 Fun fact: I love playing cozy games like The Sims and rimworld and am currently learning 3d modeling on Blender for fun!
  
  
